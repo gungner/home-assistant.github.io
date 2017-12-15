@@ -23,6 +23,7 @@ To enable this sensor in your installation, add the following to your `configura
 sensor:
   - platform: eliqonline
     access_token: ACCESS_TOKEN
+    channel_id: XXXX
 ```
 
 Configuration variables:
